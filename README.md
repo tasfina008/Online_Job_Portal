@@ -86,5 +86,9 @@ Register or login, create job posts, and view applicants from your dashboard.
 **Chatbot:**
 Ask question to get instant help
 
-     
+
+## Troubleshooting
+**If the PDF doesn't generate**
+  - Make sure the TCPDF library is correctly included.
+  - Check file permissions and paths in the resume generation script.
 
