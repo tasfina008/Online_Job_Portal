@@ -50,17 +50,17 @@ Ensure you have the following installed:
 
 **Steps**
  
-  1.Clone the repository:
+  1. Clone the repository:
 
     ```bash
       git clone https://github.com/tasfina008/Online_Job_Portal.git
 
 
-  2.Unzip the Online Job Portal file.  
+  2. Unzip the Online Job Portal file.  
   
-  3.Move the folder to the XAMPP htdocs directory.
+  3. Move the folder to the XAMPP htdocs directory.
   
-  4.Import the databse:
+  4. Import the databse:
   
    - Open phpMyAdmin
    
@@ -69,7 +69,7 @@ Ensure you have the following installed:
    - Import the JobPortal.sql file
 
  
-5.Start Apache and My SQL from the XAMPP control panel
+5. Start Apache and My SQL from the XAMPP control panel
      
 6. Open your browser and go to:
       http://localhost/OnlineJobPortal/System/
