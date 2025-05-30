@@ -49,6 +49,7 @@ Ensure you have the following installed:
 - XAMPP (Apache, PHP, MySQL)
 
  **Steps**
+ 
   1.Clone the repository:
 
     ```bash
@@ -67,9 +68,9 @@ Ensure you have the following installed:
    
    - Import the JobPortal.sql file
    
-  5. Start Apache and My SQL from the XAMPP control panel
+ 5. Start Apache and My SQL from the XAMPP control panel
      
-  6. Open your browser and go to:
+ 6. Open your browser and go to:
       http://localhost/OnlineJobPortal/System/
 
 
