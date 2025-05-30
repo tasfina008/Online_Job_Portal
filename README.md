@@ -67,7 +67,8 @@ Ensure you have the following installed:
    - Create a new datbase named jobportal
    
    - Import the JobPortal.sql file
-   
+
+ 
  5. Start Apache and My SQL from the XAMPP control panel
      
  6. Open your browser and go to:
