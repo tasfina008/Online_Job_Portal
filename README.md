@@ -17,19 +17,29 @@
 
 ### For Employers:
 -Registration and create a company profile
+
 -Post new job openings
+
 -View and manage application from job seekers
+
 
 ### Common Features:
 -Smart chatbot to guide users and answer FAQs
+
 -Secure login system with session handling
+
 
 ## Technologies Used
 -**Frontend**: HTML, CSS
+
 -**Backend**: PHP
+
 -**Database**: MySQL
+
 -**PDF Resume Generator**: TCPDF
+
 -**Testing Tool*: Selenium (Black Box Testing)
+
 -**Server**: XAMPP (for local development)
 
 
