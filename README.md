@@ -6,9 +6,13 @@
 
 ### For Job Seekers (Employees):
 -Easy registration and login
+
 -Search for jobs by catagory or location
+
 -Apply for jobs directly from the dashboard
+
 -Create and manage resume
+
 -Generate downlodable resume PDFs using TCPDF
 
 ### For Employers:
