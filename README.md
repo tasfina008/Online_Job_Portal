@@ -1,4 +1,4 @@
-# Jjobkhujo - Online Job Portal Website
+# Jobkhujo - Online Job Portal Website
 
 **Jobkhujo** is a simple and user-friendly jon portal website built using PHP, MySQL, HTML, and CSS. it helps job seekers find and apply for jobs, while allowing employes to post job openings and manage application - all from one platform.
 
